@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 <p align="center">, I'm Ritaj Zamel</h1>
-<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="30"> About Me:</h3>
 
 - 🏦 I'm a **Software Engineer Based out of Cairo**
 
