@@ -26,9 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritaj19zamel&show_icons=true&locale=en&layout=compact" alt="ritaj19zamel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritaj19zamel&show_icons=true&locale=en" alt="ritaj19zamel" /></p>
- <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25'> My Github Stats:
+ 
 <!--From Here-->
-
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25'> My Github Stats:
 ![Ritaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritaj19zamel&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourNafea&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
