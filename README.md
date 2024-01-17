@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ritaj19Zamel](https://github.com/Ritaj19Zamel)
 
-- 💬 Ask me about **python , JavaScript**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **ritaj.zamel@gmail.com**
 
